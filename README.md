@@ -1,14 +1,18 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18336112&assignment_repo_type=AssignmentRepo)
 # SE_Day1
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-Explain what software engineering is and discuss its importance in the technology industry.
+1. Explain what software engineering is and discuss its importance in the technology industry.
+
+Answer: Software engineering is the process of designing, developing, testing, and maintaining software applications in a structured and efficient way. It importance in technology industry are the following; improve efficiency, enhance scalability etc.
 
 
-Identify and describe at least three key milestones in the evolution of software engineering.
-
+2. Identify and describe at least three key milestones in the evolution of software engineering.
+Answer:
+    1. The establishment of software engineering as a discipline in the 1960s.
+    2. The advent of structured programming in the 1970s.
+    3. The rise of agile methodologies in the 2000s.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
